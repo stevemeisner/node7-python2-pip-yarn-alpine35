@@ -8,7 +8,7 @@ bash-4.3# npm --version
 
 ## node
 node --version
-v7.2.1
+v8.15.0
 
 ## Webpack
 webpack --version
