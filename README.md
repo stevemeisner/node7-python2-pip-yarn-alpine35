@@ -1,5 +1,5 @@
 # Run the image
-docker run -it dseg/node7-python2-pip-yarn-alpine35
+docker run -it stevemeisner/node7-python2-pip-yarn-alpine35
 
 # Versions
 ## npm
