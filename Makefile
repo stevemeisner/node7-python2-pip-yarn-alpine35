@@ -1,4 +1,4 @@
-IMAGE='stevemeisner/node7-python2-pip-yarn-alpine35'
+IMAGE='stevemeisner/node8-python2-pip-yarn-alpine35'
 VERSION='1.0.16'
 
 default: run
